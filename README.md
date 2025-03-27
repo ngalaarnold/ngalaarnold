@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ngalaarnold
+- 👋 Hi, I’m Arnold
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on web development 
